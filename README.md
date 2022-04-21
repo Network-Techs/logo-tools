@@ -38,14 +38,14 @@
 
 # 🔥 Developers 🔥
 
-[![Chamod Deshan ](https://telegra.ph/file/51d4f585cc318baed6093.jpg)](https://t.me/chamod_deshan)
-[![Bimsara malinga ](https://telegra.ph/file/66d4d94323712adcbd619.jpg)](https://t.me/bimsaramalinga)
+[![Chamod Deshan ](https://telegra.ph/file/e6d7f2413a2c2d46c5f62.jpg)](https://t.me/chamod_deshan)
+[![Bimsara malinga ](https://telegra.ph/file/5c359f482da0b0b1eeba7.jpg)](https://t.me/bimsaramalinga)
 
 
 
 ## 🌷 Telegram Group/Channel
 
-[![ SL Bot Developers ](https://telegra.ph/file/8d2ce03f6e28d9df777bb.jpg)](https://t.me/SL_BotDevelopers)
+[![ Network Tech 🇱🇰 ](https://telegra.ph/file/8f9bfbaae3a8f021acbc0.jpg)](https://t.me/SL_BotDevelopers)
 [![zoneunlimited ](https://telegra.ph/file/a08c7185f0f836d8a6f0f.jpg)](https://t.me/zoneunlimited) 
 
 
