@@ -1,6 +1,6 @@
 # Logo-Generate-Bot 
 
-![🍀 Logo Generate Tools 🍀](https://telegra.ph/file/61e5a2d1009c4cbdaf67d.jpg)
+![🍀 Logo Generate Tools 🍀](https://telegra.ph/file/12155d9fd310edf3fab33.jpg)
 
 
 
@@ -33,7 +33,7 @@
 # 🌸 Demo Bot
 
 
-[![🍀 Logo Generate Bot 🍀](https://telegra.ph/file/f593b501ef80a573d6cdf.jpg)](https://t.me/The_logo_generate_bot)
+[![🍀 Logo Generate Bot 🍀](https://telegra.ph/file/12155d9fd310edf3fab33.jpg)](https://t.me/The_logo_generate_bot)
 
 
 # 🔥 Developers 🔥
