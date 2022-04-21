@@ -75,6 +75,29 @@ async def on_off_antiarab(_, message: Message):
 
 #◇──────────────────────────────────────◇ 
 
+@logo.on_message(filters.command("write"))
+async def on_off_antiarab(_, message: Message):
+    text = message.text.split(None, 1)[1]
+    API = "https://single-developers.up.railway.app/write"
+    body = {     
+     "text":f"{text}"     
+    }
+    req = requests.post(API, headers={'Content-Type': 'application/json'}, json=body)
+    img = req.history[1].url
+    await message.reply_chat_action("upload_photo")
+    await app.send_photo(message.chat.id, photo=img, caption =caption2.format(message.from_user.mention),
+                 reply_markup=InlineKeyboardMarkup(
+            [
+                [
+                    InlineKeyboardButton(
+                        "🍀 Open In Google 🍀", url=f"{img}"
+                    )
+                ]
+            ]
+          ),
+    )
+
+#◇──────────────────────────────────────◇
 
 @logo.on_message(filters.command("wall"))
 async def on_off_antiarab(_, message: Message):
@@ -97,5 +120,5 @@ async def on_off_antiarab(_, message: Message):
 logo.run()
 
 app.start()
-LOGGER.info("SL Bot Developers 🇱🇰 corporation ©")
+LOGGER.info("Network Tech 🇱🇰 corporation ©")
 idle()
