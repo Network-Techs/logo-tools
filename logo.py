@@ -21,7 +21,7 @@ caption = """
 
 🌺 **Requestor** : ** {} **
 
-🍀 **Powered By **  : **[🍀 zoneunlimited 🍀 ](https://t.me/zoneunlimited)**
+🍀 **Powered By **  : **[Network Tech 🇱🇰](https://t.me/NetworksTech)**
 
 ◇───────────────◇️  
     """
@@ -40,7 +40,7 @@ async def start(client,message):
 @logo.on_message(filters.command("logo"))
 async def on_off_antiarab(_, message: Message):
     text = message.text.split(None, 1)[1]
-    photo = get(f"https://api.single-developers.software/logo?name={text}").history[1].url
+    photo = get(f"https://single-developers.up.railway.app/logo?name={text}").history[1].url
     await message.reply_chat_action("upload_photo")
     await logo.send_photo(message.chat.id, photo=photo, caption =caption.format(message.from_user.mention),
                  reply_markup=InlineKeyboardMarkup(
@@ -59,7 +59,7 @@ async def on_off_antiarab(_, message: Message):
 @logo.on_message(filters.command("logohq"))
 async def on_off_antiarab(_, message: Message):
     text = message.text.split(None, 1)[1]
-    photo = get(f"https://api.single-developers.software/logohq?name={text}").history[1].url
+    photo = get(f"https://single-developers.up.railway.app/logohq?name={text}").history[1].url
     await message.reply_chat_action("upload_photo")
     await logo.send_photo(message.chat.id, photo=photo, caption =caption.format(message.from_user.mention),
                  reply_markup=InlineKeyboardMarkup(
@@ -79,7 +79,7 @@ async def on_off_antiarab(_, message: Message):
 @logo.on_message(filters.command("wall"))
 async def on_off_antiarab(_, message: Message):
     text = message.text.split(None, 1)[1]
-    photo = get(f"https://api.single-developers.software/wallpaper?search={text}").history[1].url
+    photo = get(f"https://single-developers.up.railway.app/wallpaper?search={text}").history[1].url
     await message.reply_chat_action("upload_photo")
     await logo.send_photo(message.chat.id, photo=photo, caption=caption.format(message.from_user.mention),
                  reply_markup=InlineKeyboardMarkup(
