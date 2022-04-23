@@ -23,6 +23,10 @@
 
 [![Deploy](https://telegra.ph/file/bcf6fbca3700a360645d7.jpg)](https://heroku.com/deploy?template=https://github.com/Networktech2022/logo-tools.git)
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Networktech2022/logo-tools.git)
+
+
 # 📚 Description 📚
  
 
