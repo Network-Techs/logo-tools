@@ -13,12 +13,6 @@
 ``` BOT_TOKEN ``` You bot token, Generate It From [Bot Father](https://t.me/BotFather)
 
 
-
-## How To Deploy Bot (Watch On YouTube)🌷
-[![ YouTube ](https://telegra.ph/file/04f4e08d3d96e237b6bad.jpg)](https://youtu.be/SEzZTL2eQ6k)
-
-
-
 # Deploy Heroku 
 
 [![Deploy](https://telegra.ph/file/bcf6fbca3700a360645d7.jpg)](https://heroku.com/deploy?template=https://github.com/Networktech2022/logo-tools.git)
